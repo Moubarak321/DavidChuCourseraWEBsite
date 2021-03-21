@@ -19,15 +19,15 @@ body{
 	padding-top: 25px;
 }
 .navbar-brand h1{/*restau name*/
-	font-family: 'lora', serif;
+	font-family: 'Lora', serif;
 	color: #557c3e;
-	font-size: 1.5em;
-	text-transform: uppercase;
+	font-size: 1.5em; /*augmenter taille police*/
+	text-transform: uppercase; /*majuscule*/
 	font-weight: bold;
-	text-shadow: 1px 1px 1px #222;
+	text-shadow: 1px 1px 1px #222; /*ombres*/
 	margin-top: 0;
 	margin-bottom: 0;
-	line-height: .75;
+	line-height: .75; /*diminuer la hauteur de la ligne histoire de resserer le tout*/
 
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -40,5 +40,5 @@ body{
 	margin-top: 15px;
 }
 .navbar-brand p span #a{/*icon star*/
-	vertical-align: middle;
+	vertical-align: middle; /*aligner verticalement*/
 }
