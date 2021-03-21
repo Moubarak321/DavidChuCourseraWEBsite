@@ -18,7 +18,7 @@ body{
 .navbar-brand{
 	padding-top: 25px;
 }
-..navbar-brand h1{/*restau name*/
+.navbar-brand h1{/*restau name*/
 	font-family: 'lora', serif;
 	color: #557c3e;
 	font-size: 1.5em;
